@@ -2,7 +2,7 @@
 
 ```
 ❯ go run -race main.go
-value is %#v 0
+value is 0
 ==================
 WARNING: DATA RACE
 Write at 0x00c000098008 by goroutine 6:

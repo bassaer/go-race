@@ -12,6 +12,6 @@ func main() {
 	}()
 
 	if value == 0 {
-		fmt.Println("value is %#v", value)
+		fmt.Printf("value is %#v\n", value)
 	}
 }
